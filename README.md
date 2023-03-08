@@ -1,3 +1,3 @@
-## Got My Domain Name Back
+## Occassionally useful things from the mind of Dustin Rasener
 
-Dustin's home on the web. I may eventually put something relevant here.
+[Re-implement `say` on Windows](./blog/say.md)
